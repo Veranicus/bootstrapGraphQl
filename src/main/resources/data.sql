@@ -1,0 +1,1 @@
+INSERT INTO DOG (id,name,breed,origin) VALUES(1,'john','wolf','mexico')
